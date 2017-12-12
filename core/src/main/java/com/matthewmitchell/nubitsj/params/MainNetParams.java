@@ -64,7 +64,7 @@ public class MainNetParams extends AbstractNubitsNetParams {
         dnsSeeds = new String[] {
             "nuseed.coinerella.com",
             "nuseed.nubitsexplorer.nu",
-            "seed.nu.crypto-daio.co.uk",
+            "seed.nu.crypto-daio.co.uk"
         };
 
     }
