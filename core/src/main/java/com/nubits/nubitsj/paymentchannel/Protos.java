@@ -9453,7 +9453,7 @@ public final class Protos {
       "BAD_TRANSACTION\020\004\022\034\n\030TIME_WINDOW_UNACCEP" +
       "TABLE\020\005\022\033\n\027CHANNEL_VALUE_TOO_LARGE\020\006\022\031\n\025" +
       "MIN_PAYMENT_TOO_LARGE\020\007\022\t\n\005OTHER\020\010B4\n*co" +
-      "m.matthewmitchell.nubitsj.paymentchannel" +
+      "m.nubits.nubitsj.paymentchannel" +
       "B\006Protos"
     };
     com.google.protobuf.Descriptors.FileDescriptor.InternalDescriptorAssigner assigner =

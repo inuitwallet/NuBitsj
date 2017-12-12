@@ -1578,7 +1578,7 @@ public final class ServerState {
       "\032\n\022bestValueSignature\030\002 \001(\014\022\'\n\037refundTra" +
       "nsactionUnlockTimeSecs\030\003 \002(\004\022\033\n\023contract" +
       "Transaction\030\004 \002(\014\022\024\n\014clientOutput\030\005 \002(\014\022" +
-      "\r\n\005myKey\030\006 \002(\014B=\n.com.matthewmitchell.nu" +
+      "\r\n\005myKey\030\006 \002(\014B=\n.com.nubits.nu" +
       "bitsj.protocols.channelsB\013ServerState"
     };
     com.google.protobuf.Descriptors.FileDescriptor.InternalDescriptorAssigner assigner =
