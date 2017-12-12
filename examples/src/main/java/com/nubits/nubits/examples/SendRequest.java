@@ -3,7 +3,6 @@ package com.matthewmitchell.nubitsj.examples;
 import com.google.common.util.concurrent.FutureCallback;
 import com.google.common.util.concurrent.Futures;
 import com.google.common.util.concurrent.ListenableFuture;
-import com.matthewmitchell.nubitsj.core.*;
 import com.matthewmitchell.nubitsj.core.Wallet.BalanceType;
 import com.matthewmitchell.nubitsj.kits.WalletAppKit;
 import com.matthewmitchell.nubitsj.params.TestNet3Params;

@@ -24,7 +24,6 @@ import com.matthewmitchell.nubitsj.core.VerificationException;
 import com.matthewmitchell.nubitsj.core.WalletExtension;
 import com.matthewmitchell.nubitsj.kits.WalletAppKit;
 import com.matthewmitchell.nubitsj.params.RegTestParams;
-import com.matthewmitchell.nubitsj.protocols.channels.*;
 import com.matthewmitchell.nubitsj.utils.BriefLogFormatter;
 import com.google.common.collect.ImmutableList;
 

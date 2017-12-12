@@ -17,7 +17,6 @@
 
 package com.matthewmitchell.nubitsj.examples;
 
-import com.matthewmitchell.nubitsj.core.*;
 import com.matthewmitchell.nubitsj.params.MainNetParams;
 import com.matthewmitchell.nubitsj.store.MemoryBlockStore;
 

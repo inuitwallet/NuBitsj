@@ -18,8 +18,8 @@ confirm_wait = 1
 
 from com.matthewmitchell.nubitsj.core import *
 
-import com.matthewmitchell.nubitsj.crypto.KeyCrypterException
-import com.matthewmitchell.nubitsj.params.MainNetParams
+import KeyCrypterException
+import MainNetParams
 from com.matthewmitchell.nubitsj.kits import WalletAppKit
 
 from com.google.common.util.concurrent import FutureCallback

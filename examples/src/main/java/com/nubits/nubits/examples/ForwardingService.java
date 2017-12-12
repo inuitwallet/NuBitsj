@@ -17,7 +17,6 @@
 
 package com.matthewmitchell.nubitsj.examples;
 
-import com.matthewmitchell.nubitsj.core.*;
 import com.matthewmitchell.nubitsj.crypto.KeyCrypterException;
 import com.matthewmitchell.nubitsj.kits.WalletAppKit;
 import com.matthewmitchell.nubitsj.params.MainNetParams;

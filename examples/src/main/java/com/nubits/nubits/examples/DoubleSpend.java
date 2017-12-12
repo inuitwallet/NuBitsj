@@ -1,14 +1,11 @@
 package com.matthewmitchell.nubitsj.examples;
 
-import com.matthewmitchell.nubitsj.core.*;
 import com.matthewmitchell.nubitsj.kits.WalletAppKit;
 import com.matthewmitchell.nubitsj.params.RegTestParams;
 import com.matthewmitchell.nubitsj.utils.BriefLogFormatter;
 import com.matthewmitchell.nubitsj.utils.Threading;
 
 import java.io.File;
-
-import static com.matthewmitchell.nubitsj.core.Coin.*;
 
 /**
  * This is a little test app that waits for a coin on a local regtest node, then  generates two transactions that double
