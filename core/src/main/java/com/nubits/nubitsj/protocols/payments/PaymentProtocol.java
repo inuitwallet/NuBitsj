@@ -17,7 +17,7 @@
 
 package com.nubits.nubitsj.protocols.payments;
 
-import com.matthewmitchell.nubitsj.core.*;
+import com.nubits.nubitsj.core.*;
 import com.nubits.nubitsj.crypto.X509Utils;
 import com.nubits.nubitsj.script.ScriptBuilder;
 import com.google.common.base.Objects;

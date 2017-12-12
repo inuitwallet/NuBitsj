@@ -16,7 +16,7 @@
 
 package com.nubits.nubitsj.protocols.channels;
 
-import com.matthewmitchell.nubitsj.core.*;
+import com.nubits.nubitsj.core.*;
 import com.nubits.nubitsj.crypto.TransactionSignature;
 import com.nubits.nubitsj.script.Script;
 import com.nubits.nubitsj.script.ScriptBuilder;

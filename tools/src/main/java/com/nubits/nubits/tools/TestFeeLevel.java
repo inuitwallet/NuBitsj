@@ -1,8 +1,8 @@
-package com.matthewmitchell.nubitsj.tools;
+package com.nubits.nubitsj.tools;
 
-import com.matthewmitchell.nubitsj.kits.WalletAppKit;
-import com.matthewmitchell.nubitsj.params.MainNetParams;
-import com.matthewmitchell.nubitsj.utils.BriefLogFormatter;
+import com.nubits.nubitsj.kits.WalletAppKit;
+import com.nubits.nubitsj.params.MainNetParams;
+import com.nubits.nubitsj.utils.BriefLogFormatter;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

@@ -15,26 +15,26 @@
  * limitations under the License.
  */
 
-package com.matthewmitchell.nubitsj.tools;
+package com.nubits.nubitsj.tools;
 
-import com.matthewmitchell.nubitsj.core.Wallet.BalanceType;
-import com.matthewmitchell.nubitsj.crypto.DeterministicKey;
-import com.matthewmitchell.nubitsj.crypto.KeyCrypterException;
-import com.matthewmitchell.nubitsj.crypto.MnemonicCode;
-import com.matthewmitchell.nubitsj.crypto.MnemonicException;
-import com.matthewmitchell.nubitsj.net.discovery.DnsDiscovery;
-import com.matthewmitchell.nubitsj.params.MainNetParams;
-import com.matthewmitchell.nubitsj.params.RegTestParams;
-import com.matthewmitchell.nubitsj.params.TestNet3Params;
-import com.matthewmitchell.nubitsj.protocols.payments.PaymentProtocol;
-import com.matthewmitchell.nubitsj.protocols.payments.PaymentProtocolException;
-import com.matthewmitchell.nubitsj.protocols.payments.PaymentSession;
-import com.matthewmitchell.nubitsj.uri.NubitsURI;
-import com.matthewmitchell.nubitsj.uri.NubitsURIParseException;
-import com.matthewmitchell.nubitsj.utils.BriefLogFormatter;
-import com.matthewmitchell.nubitsj.wallet.DeterministicSeed;
-import com.matthewmitchell.nubitsj.wallet.DeterministicUpgradeRequiredException;
-import com.matthewmitchell.nubitsj.wallet.DeterministicUpgradeRequiresPassword;
+import com.nubits.nubitsj.core.Wallet.BalanceType;
+import com.nubits.nubitsj.crypto.DeterministicKey;
+import com.nubits.nubitsj.crypto.KeyCrypterException;
+import com.nubits.nubitsj.crypto.MnemonicCode;
+import com.nubits.nubitsj.crypto.MnemonicException;
+import com.nubits.nubitsj.net.discovery.DnsDiscovery;
+import com.nubits.nubitsj.params.MainNetParams;
+import com.nubits.nubitsj.params.RegTestParams;
+import com.nubits.nubitsj.params.TestNet3Params;
+import com.nubits.nubitsj.protocols.payments.PaymentProtocol;
+import com.nubits.nubitsj.protocols.payments.PaymentProtocolException;
+import com.nubits.nubitsj.protocols.payments.PaymentSession;
+import com.nubits.nubitsj.uri.NubitsURI;
+import com.nubits.nubitsj.uri.NubitsURIParseException;
+import com.nubits.nubitsj.utils.BriefLogFormatter;
+import com.nubits.nubitsj.wallet.DeterministicSeed;
+import com.nubits.nubitsj.wallet.DeterministicUpgradeRequiredException;
+import com.nubits.nubitsj.wallet.DeterministicUpgradeRequiresPassword;
 import com.google.common.base.Charsets;
 import com.google.common.base.Splitter;
 import com.google.common.collect.ImmutableList;
@@ -47,7 +47,7 @@ import joptsimple.OptionParser;
 import joptsimple.OptionSet;
 import joptsimple.OptionSpec;
 import joptsimple.util.DateConverter;
-import com.matthewmitchell.nubitsj.wallet.Protos;
+import com.nubits.nubitsj.wallet.Protos;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.spongycastle.crypto.params.KeyParameter;
@@ -68,7 +68,7 @@ import java.util.concurrent.TimeoutException;
 import java.util.logging.Level;
 import java.util.logging.LogManager;
 
-import static com.matthewmitchell.nubitsj.core.Coin.parseCoin;
+import static com.nubits.nubitsj.core.Coin.parseCoin;
 import static com.google.common.base.Preconditions.checkNotNull;
 
 /**

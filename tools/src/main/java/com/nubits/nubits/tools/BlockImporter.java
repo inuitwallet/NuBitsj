@@ -1,13 +1,13 @@
-package com.matthewmitchell.nubitsj.tools;
+package com.nubits.nubitsj.tools;
 
-import com.matthewmitchell.nubitsj.params.MainNetParams;
-import com.matthewmitchell.nubitsj.params.TestNet3Params;
-import com.matthewmitchell.nubitsj.utils.BlockFileLoader;
+import com.nubits.nubitsj.params.MainNetParams;
+import com.nubits.nubitsj.params.TestNet3Params;
+import com.nubits.nubitsj.utils.BlockFileLoader;
 import com.google.common.base.Preconditions;
 
 import java.io.File;
 
-/** Very thin wrapper around {@link com.matthewmitchell.nubitsj.utils.BlockFileLoader} */
+/** Very thin wrapper around {@link com.nubits.nubitsj.utils.BlockFileLoader} */
 public class BlockImporter {
     public static void main(String[] args) throws BlockStoreException, VerificationException, PrunedException {
         System.out.println("USAGE: BlockImporter (prod|test) (H2|Disk|MemFull|Mem|SPV) [blockStore]");

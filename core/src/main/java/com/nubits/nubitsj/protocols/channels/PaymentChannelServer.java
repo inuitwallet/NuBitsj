@@ -16,7 +16,7 @@
 
 package com.nubits.nubitsj.protocols.channels;
 
-import com.matthewmitchell.nubitsj.core.*;
+import com.nubits.nubitsj.core.*;
 import com.nubits.nubitsj.core.*;
 import com.nubits.nubitsj.protocols.channels.PaymentChannelCloseException.CloseReason;
 import com.nubits.nubitsj.utils.Threading;

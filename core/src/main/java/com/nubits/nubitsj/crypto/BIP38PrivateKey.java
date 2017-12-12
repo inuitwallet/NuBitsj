@@ -16,7 +16,7 @@
 
 package com.nubits.nubitsj.crypto;
 
-import com.matthewmitchell.nubitsj.core.*;
+import com.nubits.nubitsj.core.*;
 import com.google.common.base.Charsets;
 import com.google.common.base.Objects;
 import com.google.common.primitives.Bytes;

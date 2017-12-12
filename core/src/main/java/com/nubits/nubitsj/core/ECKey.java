@@ -17,7 +17,7 @@
 
 package com.nubits.nubitsj.core;
 
-import com.matthewmitchell.nubitsj.crypto.*;
+import com.nubits.nubitsj.crypto.*;
 import com.google.common.annotations.VisibleForTesting;
 import com.google.common.base.Objects;
 import com.google.common.base.Objects.ToStringHelper;

@@ -15,15 +15,15 @@
  * limitations under the License.
  */
 
-package com.matthewmitchell.nubitsj.examples;
+package com.nubits.nubitsj.examples;
 
-import com.matthewmitchell.nubitsj.kits.WalletAppKit;
-import com.matthewmitchell.nubitsj.params.RegTestParams;
-import com.matthewmitchell.nubitsj.protocols.channels.PaymentChannelClientConnection;
-import com.matthewmitchell.nubitsj.protocols.channels.StoredPaymentChannelClientStates;
-import com.matthewmitchell.nubitsj.protocols.channels.ValueOutOfRangeException;
-import com.matthewmitchell.nubitsj.utils.BriefLogFormatter;
-import com.matthewmitchell.nubitsj.utils.Threading;
+import com.nubits.nubitsj.kits.WalletAppKit;
+import com.nubits.nubitsj.params.RegTestParams;
+import com.nubits.nubitsj.protocols.channels.PaymentChannelClientConnection;
+import com.nubits.nubitsj.protocols.channels.StoredPaymentChannelClientStates;
+import com.nubits.nubitsj.protocols.channels.ValueOutOfRangeException;
+import com.nubits.nubitsj.utils.BriefLogFormatter;
+import com.nubits.nubitsj.utils.Threading;
 import com.google.common.collect.ImmutableList;
 import com.google.common.util.concurrent.FutureCallback;
 import com.google.common.util.concurrent.Futures;
@@ -38,7 +38,7 @@ import java.util.List;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutionException;
 
-import static com.matthewmitchell.nubitsj.core.Coin.CENT;
+import static com.nubits.nubitsj.core.Coin.CENT;
 
 /**
  * Simple client that connects to the given host, opens a channel, and pays one cent.

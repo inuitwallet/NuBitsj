@@ -16,7 +16,7 @@
 
 package com.nubits.nubitsj.testing;
 
-import com.matthewmitchell.nubitsj.core.*;
+import com.nubits.nubitsj.core.*;
 import com.nubits.nubitsj.core.*;
 import com.nubits.nubitsj.params.UnitTestParams;
 import com.nubits.nubitsj.store.BlockStore;

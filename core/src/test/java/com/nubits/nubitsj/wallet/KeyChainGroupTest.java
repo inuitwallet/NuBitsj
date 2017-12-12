@@ -16,8 +16,8 @@
 
 package com.nubits.nubitsj.wallet;
 
-import com.matthewmitchell.nubitsj.core.*;
-import com.matthewmitchell.nubitsj.crypto.*;
+import com.nubits.nubitsj.core.*;
+import com.nubits.nubitsj.crypto.*;
 import com.nubits.nubitsj.crypto.DeterministicKey;
 import com.nubits.nubitsj.crypto.KeyCrypterException;
 import com.nubits.nubitsj.crypto.KeyCrypterScrypt;
@@ -26,7 +26,7 @@ import com.nubits.nubitsj.params.MainNetParams;
 import com.nubits.nubitsj.utils.BriefLogFormatter;
 import com.nubits.nubitsj.utils.Threading;
 import com.google.common.collect.ImmutableList;
-import com.matthewmitchell.nubitsj.wallet.*;
+import com.nubits.nubitsj.wallet.*;
 import com.nubits.nubitsj.core.*;
 import org.junit.Assert;
 import org.junit.Before;

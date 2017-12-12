@@ -22,7 +22,7 @@
     <parent>
         <groupId>com.matthewmitchell</groupId>
         <artifactId>nubitsj-parent</artifactId>
-        <version>0.14.4</version>
+        <version>0.14.5</version>
     </parent>
 
     <artifactId>nubitsj</artifactId>
@@ -256,7 +256,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>com.matthewmitchell.nubitsj.BitcoindComparisonTool</mainClass>
+                                    <mainClass>com.nubits.nubitsj.BitcoindComparisonTool</mainClass>
                                     <addClasspath>false</addClasspath>
                                 </manifest>
                             </archive>

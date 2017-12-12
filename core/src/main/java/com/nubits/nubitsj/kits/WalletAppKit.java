@@ -16,7 +16,7 @@
 
 package com.nubits.nubitsj.kits;
 
-import com.matthewmitchell.nubitsj.core.*;
+import com.nubits.nubitsj.core.*;
 import com.nubits.nubitsj.core.*;
 import com.nubits.nubitsj.net.discovery.DnsDiscovery;
 import com.nubits.nubitsj.protocols.channels.StoredPaymentChannelClientStates;

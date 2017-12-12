@@ -1,9 +1,9 @@
-package com.matthewmitchell.nubitsj.examples;
+package com.nubits.nubitsj.examples;
 
-import com.matthewmitchell.nubitsj.net.discovery.DnsDiscovery;
-import com.matthewmitchell.nubitsj.params.TestNet3Params;
-import com.matthewmitchell.nubitsj.store.SPVBlockStore;
-import com.matthewmitchell.nubitsj.wallet.DeterministicSeed;
+import com.nubits.nubitsj.net.discovery.DnsDiscovery;
+import com.nubits.nubitsj.params.TestNet3Params;
+import com.nubits.nubitsj.store.SPVBlockStore;
+import com.nubits.nubitsj.wallet.DeterministicSeed;
 
 import java.io.File;
 

@@ -16,7 +16,7 @@
 
 package com.nubits.nubitsj.store;
 
-import com.matthewmitchell.nubitsj.core.*;
+import com.nubits.nubitsj.core.*;
 import com.google.common.collect.Lists;
 import com.nubits.nubitsj.core.*;
 import org.slf4j.Logger;

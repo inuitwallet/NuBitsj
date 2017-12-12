@@ -1,9 +1,9 @@
-package com.matthewmitchell.nubitsj.examples;
+package com.nubits.nubitsj.examples;
 
-import com.matthewmitchell.nubitsj.kits.WalletAppKit;
-import com.matthewmitchell.nubitsj.params.RegTestParams;
-import com.matthewmitchell.nubitsj.utils.BriefLogFormatter;
-import com.matthewmitchell.nubitsj.utils.Threading;
+import com.nubits.nubitsj.kits.WalletAppKit;
+import com.nubits.nubitsj.params.RegTestParams;
+import com.nubits.nubitsj.utils.BriefLogFormatter;
+import com.nubits.nubitsj.utils.Threading;
 
 import java.io.File;
 

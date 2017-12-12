@@ -1,11 +1,11 @@
-package com.matthewmitchell.nubitsj.examples;
+package com.nubits.nubitsj.examples;
 
 import com.google.common.util.concurrent.FutureCallback;
 import com.google.common.util.concurrent.Futures;
 import com.google.common.util.concurrent.ListenableFuture;
-import com.matthewmitchell.nubitsj.core.Wallet.BalanceType;
-import com.matthewmitchell.nubitsj.kits.WalletAppKit;
-import com.matthewmitchell.nubitsj.params.TestNet3Params;
+import com.nubits.nubitsj.core.Wallet.BalanceType;
+import com.nubits.nubitsj.kits.WalletAppKit;
+import com.nubits.nubitsj.params.TestNet3Params;
 
 import java.io.File;
 

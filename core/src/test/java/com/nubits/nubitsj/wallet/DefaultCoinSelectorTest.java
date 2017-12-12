@@ -16,7 +16,7 @@
 
 package com.nubits.nubitsj.wallet;
 
-import com.matthewmitchell.nubitsj.core.*;
+import com.nubits.nubitsj.core.*;
 import com.nubits.nubitsj.core.*;
 import com.nubits.nubitsj.params.MainNetParams;
 import com.nubits.nubitsj.params.UnitTestParams;

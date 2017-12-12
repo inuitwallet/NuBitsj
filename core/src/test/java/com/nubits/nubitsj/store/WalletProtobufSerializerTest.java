@@ -18,7 +18,7 @@
 package com.nubits.nubitsj.store;
 
 
-import com.matthewmitchell.nubitsj.core.*;
+import com.nubits.nubitsj.core.*;
 import com.nubits.nubitsj.core.*;
 import com.nubits.nubitsj.core.TransactionConfidence.ConfidenceType;
 import com.nubits.nubitsj.crypto.DeterministicKey;

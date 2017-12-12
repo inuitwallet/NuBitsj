@@ -18,7 +18,7 @@ package com.nubits.nubitsj.wallet;
 
 import com.nubits.nubitsj.core.BloomFilter;
 import com.nubits.nubitsj.core.ECKey;
-import com.matthewmitchell.nubitsj.crypto.*;
+import com.nubits.nubitsj.crypto.*;
 import com.nubits.nubitsj.crypto.*;
 import com.nubits.nubitsj.store.UnreadableWalletException;
 import com.nubits.nubitsj.utils.ListenerRegistration;

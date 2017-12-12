@@ -17,7 +17,7 @@
 
 package com.nubits.nubitsj.wallet;
 
-import com.matthewmitchell.nubitsj.crypto.*;
+import com.nubits.nubitsj.crypto.*;
 import com.nubits.nubitsj.crypto.*;
 import com.nubits.nubitsj.store.UnreadableWalletException;
 import com.google.common.base.Charsets;

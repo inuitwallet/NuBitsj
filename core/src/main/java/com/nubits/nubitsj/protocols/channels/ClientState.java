@@ -1717,7 +1717,7 @@ public final class ClientState {
       "Transaction\030\002 \002(\014\022\031\n\021refundTransaction\030\003" +
       " \002(\014\022\r\n\005myKey\030\004 \002(\014\022\021\n\tvalueToMe\030\005 \002(\004\022\022" +
       "\n\nrefundFees\030\006 \002(\004\022\034\n\024closeTransactionHa" +
-      "sh\030\007 \001(\014B=\n.com.matthewmitchell.nubitsj." +
+      "sh\030\007 \001(\014B=\n.com.nubits.nubitsj." +
       "protocols.channelsB\013ClientState"
     };
     com.google.protobuf.Descriptors.FileDescriptor.InternalDescriptorAssigner assigner =

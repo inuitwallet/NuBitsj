@@ -1,9 +1,9 @@
-package com.matthewmitchell.nubitsj.examples;
+package com.nubits.nubitsj.examples;
 
-import com.matthewmitchell.nubitsj.core.NetworkParameters;
-import com.matthewmitchell.nubitsj.core.Wallet;
-import com.matthewmitchell.nubitsj.params.TestNet3Params;
-import com.matthewmitchell.nubitsj.wallet.DeterministicSeed;
+import com.nubits.nubitsj.core.NetworkParameters;
+import com.nubits.nubitsj.core.Wallet;
+import com.nubits.nubitsj.params.TestNet3Params;
+import com.nubits.nubitsj.wallet.DeterministicSeed;
 import com.google.common.base.Joiner;
 
 /**

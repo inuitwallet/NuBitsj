@@ -15,7 +15,7 @@
  */
 package com.nubits.nubitsj.signers;
 
-import com.matthewmitchell.nubitsj.core.*;
+import com.nubits.nubitsj.core.*;
 import com.nubits.nubitsj.core.*;
 import com.nubits.nubitsj.crypto.ChildNumber;
 import com.nubits.nubitsj.crypto.TransactionSignature;

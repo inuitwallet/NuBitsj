@@ -16,7 +16,7 @@
 
 package com.nubits.nubitsj.net.discovery;
 
-import com.matthewmitchell.nubitsj.core.*;
+import com.nubits.nubitsj.core.*;
 import com.nubits.nubitsj.core.*;
 import com.nubits.nubitsj.utils.Threading;
 import net.jcip.annotations.GuardedBy;

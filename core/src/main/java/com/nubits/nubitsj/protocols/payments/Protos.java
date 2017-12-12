@@ -5954,7 +5954,7 @@ public final class Protos {
       "ctions\030\002 \003(\014\022#\n\trefund_to\030\003 \003(\0132\020.paymen" +
       "ts.Output\022\014\n\004memo\030\004 \001(\t\">\n\nPaymentACK\022\"\n" +
       "\007payment\030\001 \002(\0132\021.payments.Payment\022\014\n\004mem" +
-      "o\030\002 \001(\tB8\n.com.matthewmitchell.nubitsj.p" +
+      "o\030\002 \001(\tB8\n.com.nubits.nubitsj.p" +
       "rotocols.paymentsB\006Protos"
     };
     com.google.protobuf.Descriptors.FileDescriptor.InternalDescriptorAssigner assigner =

@@ -401,7 +401,7 @@ public final class MonetaryFormat {
     }
 
     /**
-     * Parse a human readable fiat value to a {@link com.matthewmitchell.nubitsj.core.Fiat} instance.
+     * Parse a human readable fiat value to a {@link com.nubits.nubitsj.core.Fiat} instance.
      * 
      * @throws NumberFormatException
      *             if the string cannot be parsed for some reason

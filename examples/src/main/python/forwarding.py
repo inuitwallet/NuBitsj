@@ -16,11 +16,11 @@ my_address_text = "mzEjmna15T7DXj4HC9MBEG2UJzgFfEYtFo"
 # if it has a confirmed balance in it, then you can set it to 0.
 confirm_wait = 1
 
-from com.matthewmitchell.nubitsj.core import *
+from com.nubits.nubitsj.core import *
 
 import KeyCrypterException
 import MainNetParams
-from com.matthewmitchell.nubitsj.kits import WalletAppKit
+from com.nubits.nubitsj.kits import WalletAppKit
 
 from com.google.common.util.concurrent import FutureCallback
 from com.google.common.util.concurrent import Futures

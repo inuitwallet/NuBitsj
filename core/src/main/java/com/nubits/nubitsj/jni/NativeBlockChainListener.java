@@ -16,7 +16,7 @@
 
 package com.nubits.nubitsj.jni;
 
-import com.matthewmitchell.nubitsj.core.*;
+import com.nubits.nubitsj.core.*;
 import com.nubits.nubitsj.core.*;
 
 import java.util.List;

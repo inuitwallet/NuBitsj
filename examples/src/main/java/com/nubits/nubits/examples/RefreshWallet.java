@@ -15,11 +15,11 @@
  * limitations under the License.
  */
 
-package com.matthewmitchell.nubitsj.examples;
+package com.nubits.nubitsj.examples;
 
-import com.matthewmitchell.nubitsj.params.TestNet3Params;
-import com.matthewmitchell.nubitsj.store.BlockStore;
-import com.matthewmitchell.nubitsj.store.MemoryBlockStore;
+import com.nubits.nubitsj.params.TestNet3Params;
+import com.nubits.nubitsj.store.BlockStore;
+import com.nubits.nubitsj.store.MemoryBlockStore;
 
 import java.io.File;
 import java.net.InetAddress;

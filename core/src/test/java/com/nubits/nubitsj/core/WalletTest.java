@@ -18,7 +18,7 @@
 package com.nubits.nubitsj.core;
 
 import com.nubits.nubitsj.core.Wallet.SendRequest;
-import com.matthewmitchell.nubitsj.crypto.*;
+import com.nubits.nubitsj.crypto.*;
 import com.nubits.nubitsj.crypto.*;
 import com.nubits.nubitsj.params.MainNetParams;
 import com.nubits.nubitsj.script.Script;
@@ -29,12 +29,12 @@ import com.nubits.nubitsj.store.BlockStoreException;
 import com.nubits.nubitsj.store.MemoryBlockStore;
 import com.nubits.nubitsj.store.UnreadableWalletException;
 import com.nubits.nubitsj.store.WalletProtobufSerializer;
-import com.matthewmitchell.nubitsj.testing.*;
+import com.nubits.nubitsj.testing.*;
 import com.nubits.nubitsj.testing.*;
 import com.nubits.nubitsj.utils.ExchangeRate;
 import com.nubits.nubitsj.utils.Fiat;
 import com.nubits.nubitsj.utils.Threading;
-import com.matthewmitchell.nubitsj.wallet.*;
+import com.nubits.nubitsj.wallet.*;
 import com.nubits.nubitsj.wallet.*;
 import com.nubits.nubitsj.wallet.WalletTransaction.Pool;
 import com.google.common.collect.ImmutableList;

@@ -14,7 +14,7 @@
 
 package com.nubits.nubitsj.protocols.payments;
 
-import com.matthewmitchell.nubitsj.core.*;
+import com.nubits.nubitsj.core.*;
 import com.nubits.nubitsj.crypto.TrustStoreLoader;
 import com.nubits.nubitsj.params.MainNetParams;
 import com.nubits.nubitsj.protocols.payments.PaymentProtocol.PkiVerificationData;

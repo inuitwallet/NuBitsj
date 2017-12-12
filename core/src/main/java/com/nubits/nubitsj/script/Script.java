@@ -18,7 +18,7 @@
 
 package com.nubits.nubitsj.script;
 
-import com.matthewmitchell.nubitsj.core.*;
+import com.nubits.nubitsj.core.*;
 import com.nubits.nubitsj.crypto.TransactionSignature;
 import com.google.common.collect.Lists;
 import com.nubits.nubitsj.core.*;

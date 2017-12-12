@@ -1,6 +1,6 @@
 package com.nubits.nubitsj.jni;
 
-import com.matthewmitchell.nubitsj.core.*;
+import com.nubits.nubitsj.core.*;
 import com.nubits.nubitsj.core.Coin;
 import com.nubits.nubitsj.core.Sha256Hash;
 import com.nubits.nubitsj.protocols.channels.PaymentChannelCloseException;

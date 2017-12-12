@@ -15,16 +15,16 @@
  * limitations under the License.
  */
 
-package com.matthewmitchell.nubitsj.examples;
+package com.nubits.nubitsj.examples;
 
-import com.matthewmitchell.nubitsj.core.Coin;
-import com.matthewmitchell.nubitsj.core.NetworkParameters;
-import com.matthewmitchell.nubitsj.core.Sha256Hash;
-import com.matthewmitchell.nubitsj.core.VerificationException;
-import com.matthewmitchell.nubitsj.core.WalletExtension;
-import com.matthewmitchell.nubitsj.kits.WalletAppKit;
-import com.matthewmitchell.nubitsj.params.RegTestParams;
-import com.matthewmitchell.nubitsj.utils.BriefLogFormatter;
+import com.nubits.nubitsj.core.Coin;
+import com.nubits.nubitsj.core.NetworkParameters;
+import com.nubits.nubitsj.core.Sha256Hash;
+import com.nubits.nubitsj.core.VerificationException;
+import com.nubits.nubitsj.core.WalletExtension;
+import com.nubits.nubitsj.kits.WalletAppKit;
+import com.nubits.nubitsj.params.RegTestParams;
+import com.nubits.nubitsj.utils.BriefLogFormatter;
 import com.google.common.collect.ImmutableList;
 
 import com.google.common.util.concurrent.ListenableFuture;

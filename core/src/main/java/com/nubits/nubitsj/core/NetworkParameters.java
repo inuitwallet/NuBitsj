@@ -17,7 +17,7 @@
 
 package com.nubits.nubitsj.core;
 
-import com.matthewmitchell.nubitsj.params.*;
+import com.nubits.nubitsj.params.*;
 import com.nubits.nubitsj.params.MainNetParams;
 import com.nubits.nubitsj.params.UnitTestParams;
 import com.google.common.base.Objects;
@@ -48,7 +48,7 @@ public abstract class NetworkParameters implements Serializable {
     /** The string returned by getId() for the main, production network where people trade things. */
     public static final String ID_MAINNET = "org.nubits.production";
     /** Unit test network. */
-    public static final String ID_UNITTESTNET = "com.matthewmitchell.nubitsj.unittest";
+    public static final String ID_UNITTESTNET = "com.nubits.nubitsj.unittest";
 
     /** The string used by the payment protocol to represent the main net. */
     public static final String PAYMENT_PROTOCOL_ID_MAINNET = "main";

@@ -17,7 +17,7 @@
 
 package com.nubits.nubitsj.wallet;
 
-import com.matthewmitchell.nubitsj.core.*;
+import com.nubits.nubitsj.core.*;
 import com.nubits.nubitsj.core.*;
 import com.nubits.nubitsj.crypto.ChildNumber;
 import com.nubits.nubitsj.crypto.*;

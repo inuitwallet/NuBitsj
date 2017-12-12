@@ -15,10 +15,10 @@
  * limitations under the License.
  */
 
-package com.matthewmitchell.nubitsj.examples;
+package com.nubits.nubitsj.examples;
 
-import com.matthewmitchell.nubitsj.params.MainNetParams;
-import com.matthewmitchell.nubitsj.store.MemoryBlockStore;
+import com.nubits.nubitsj.params.MainNetParams;
+import com.nubits.nubitsj.store.MemoryBlockStore;
 
 import java.math.BigInteger;
 import java.net.InetAddress;

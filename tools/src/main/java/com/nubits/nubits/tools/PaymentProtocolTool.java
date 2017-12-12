@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package com.matthewmitchell.nubitsj.tools;
+package com.nubits.nubitsj.tools;
 
-import com.matthewmitchell.nubitsj.crypto.TrustStoreLoader;
-import com.matthewmitchell.nubitsj.protocols.payments.PaymentProtocol;
-import com.matthewmitchell.nubitsj.protocols.payments.PaymentProtocolException;
-import com.matthewmitchell.nubitsj.protocols.payments.PaymentSession;
-import com.matthewmitchell.nubitsj.uri.NubitsURI;
-import com.matthewmitchell.nubitsj.uri.NubitsURIParseException;
+import com.nubits.nubitsj.crypto.TrustStoreLoader;
+import com.nubits.nubitsj.protocols.payments.PaymentProtocol;
+import com.nubits.nubitsj.protocols.payments.PaymentProtocolException;
+import com.nubits.nubitsj.protocols.payments.PaymentSession;
+import com.nubits.nubitsj.uri.NubitsURI;
+import com.nubits.nubitsj.uri.NubitsURIParseException;
 import org.nubits.protocols.payments.Protos;
 
 import java.io.FileInputStream;
