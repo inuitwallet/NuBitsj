@@ -1,9 +1,9 @@
-package com.matthewmitchell.nubitsj.examples;
+package com.nubits.nubitsj.examples;
 
-import com.matthewmitchell.nubitsj.core.*;
-import com.matthewmitchell.nubitsj.kits.WalletAppKit;
-import com.matthewmitchell.nubitsj.params.TestNet3Params;
-import com.matthewmitchell.nubitsj.script.Script;
+import com.nubits.nubitsj.core.*;
+import com.nubits.nubitsj.kits.WalletAppKit;
+import com.nubits.nubitsj.params.TestNet3Params;
+import com.nubits.nubitsj.script.Script;
 
 import java.io.File;
 import java.util.List;
@@ -30,7 +30,7 @@ public class Kit {
         NetworkParameters params = TestNet3Params.get();
 
         // Now we initialize a new WalletAppKit. The kit handles all the boilerplate for us and is the easiest way to get everything up and running.
-        // Have a look at the WalletAppKit documentation and its source to understand what's happening behind the scenes: https://github.com/nubitsj/nubitsj/blob/master/core/src/main/java/com.matthewmitchell.nubitsj/kits/WalletAppKit.java
+        // Have a look at the WalletAppKit documentation and its source to understand what's happening behind the scenes: https://github.com/nubitsj/nubitsj/blob/master/core/src/main/java/com.nubits.nubitsj/kits/WalletAppKit.java
         WalletAppKit kit = new WalletAppKit(params, new File("."), "walletappkit-example");
 
         // In case you want to connect with your local nubitsd tell the kit to connect to localhost.

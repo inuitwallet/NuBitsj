@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.matthewmitchell.nubitsj.examples;
+package com.nubits.nubitsj.examples;
 
-import com.matthewmitchell.nubitsj.core.Wallet;
+import com.nubits.nubitsj.core.Wallet;
 
 import java.io.File;
 

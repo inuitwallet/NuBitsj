@@ -15,14 +15,14 @@
  * limitations under the License.
  */
 
-package com.matthewmitchell.nubitsj.tools;
+package com.nubits.nubitsj.tools;
 
-import com.matthewmitchell.nubitsj.core.*;
-import com.matthewmitchell.nubitsj.params.MainNetParams;
-import com.matthewmitchell.nubitsj.store.BlockStore;
-import com.matthewmitchell.nubitsj.store.MemoryBlockStore;
-import com.matthewmitchell.nubitsj.utils.BriefLogFormatter;
-import com.matthewmitchell.nubitsj.utils.Threading;
+import com.nubits.nubitsj.core.*;
+import com.nubits.nubitsj.params.MainNetParams;
+import com.nubits.nubitsj.store.BlockStore;
+import com.nubits.nubitsj.store.MemoryBlockStore;
+import com.nubits.nubitsj.utils.BriefLogFormatter;
+import com.nubits.nubitsj.utils.Threading;
 import com.google.common.base.Charsets;
 
 import java.io.DataOutputStream;

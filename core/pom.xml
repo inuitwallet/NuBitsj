@@ -20,9 +20,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.matthewmitchell</groupId>
+        <groupId>com.nubits</groupId>
         <artifactId>nubitsj-parent</artifactId>
-        <version>0.14.5</version>
+        <version>0.14.6</version>
     </parent>
 
     <artifactId>nubitsj</artifactId>
@@ -32,7 +32,7 @@
 
     <packaging>jar</packaging>
 
-    <url>https://github.com/MatthewLM/nubitsj</url>
+    <url>https://github.com/inuitwallet/nubitsj</url>
 
     <licenses>
         <license>
@@ -256,7 +256,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>com.matthewmitchell.nubitsj.BitcoindComparisonTool</mainClass>
+                                    <mainClass>com.nubits.nubitsj.BitcoindComparisonTool</mainClass>
                                     <addClasspath>false</addClasspath>
                                 </manifest>
                             </archive>
@@ -348,7 +348,7 @@
         </dependency>
         -->
         <dependency>
-            <groupId>com.matthewmitchell</groupId>
+            <groupId>com.nubits</groupId>
             <artifactId>orchid</artifactId>
             <version>1.0</version>
         </dependency>

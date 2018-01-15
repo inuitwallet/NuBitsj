@@ -15,15 +15,15 @@
  * limitations under the License.
  */
 
-package com.matthewmitchell.nubitsj.examples;
+package com.nubits.nubitsj.examples;
 
-import com.matthewmitchell.nubitsj.core.AbstractPeerEventListener;
-import com.matthewmitchell.nubitsj.core.NetworkParameters;
-import com.matthewmitchell.nubitsj.core.Peer;
-import com.matthewmitchell.nubitsj.core.PeerGroup;
-import com.matthewmitchell.nubitsj.net.discovery.DnsDiscovery;
-import com.matthewmitchell.nubitsj.params.MainNetParams;
-import com.matthewmitchell.nubitsj.utils.BriefLogFormatter;
+import com.nubits.nubitsj.core.AbstractPeerEventListener;
+import com.nubits.nubitsj.core.NetworkParameters;
+import com.nubits.nubitsj.core.Peer;
+import com.nubits.nubitsj.core.PeerGroup;
+import com.nubits.nubitsj.net.discovery.DnsDiscovery;
+import com.nubits.nubitsj.params.MainNetParams;
+import com.nubits.nubitsj.utils.BriefLogFormatter;
 import com.google.common.collect.Lists;
 
 import javax.swing.*;

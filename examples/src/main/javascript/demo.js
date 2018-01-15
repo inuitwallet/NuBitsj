@@ -34,7 +34,7 @@
 
 
 // Import some stuff.
-var bcj = com.matthewmitchell.nubitsj;
+var bcj = com.nubits.nubitsj;
 var ECKey = bcj.core.ECKey;
 
 // We'll use the testnet for now.

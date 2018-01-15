@@ -15,15 +15,15 @@
  * limitations under the License.
  */
 
-package com.matthewmitchell.nubitsj.examples;
+package com.nubits.nubitsj.examples;
 
-import com.matthewmitchell.nubitsj.core.*;
-import com.matthewmitchell.nubitsj.crypto.KeyCrypterException;
-import com.matthewmitchell.nubitsj.kits.WalletAppKit;
-import com.matthewmitchell.nubitsj.params.MainNetParams;
-import com.matthewmitchell.nubitsj.params.RegTestParams;
-import com.matthewmitchell.nubitsj.params.TestNet3Params;
-import com.matthewmitchell.nubitsj.utils.BriefLogFormatter;
+import com.nubits.nubitsj.core.*;
+import com.nubits.nubitsj.crypto.KeyCrypterException;
+import com.nubits.nubitsj.kits.WalletAppKit;
+import com.nubits.nubitsj.params.MainNetParams;
+import com.nubits.nubitsj.params.RegTestParams;
+import com.nubits.nubitsj.params.TestNet3Params;
+import com.nubits.nubitsj.utils.BriefLogFormatter;
 import com.google.common.util.concurrent.FutureCallback;
 import com.google.common.util.concurrent.Futures;
 import com.google.common.util.concurrent.MoreExecutors;
